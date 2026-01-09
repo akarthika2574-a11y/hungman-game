@@ -64,3 +64,4 @@ def Hangman_game():
         print("\nGame is over......The word is :",secret_word)        
             
 Hangman_game()
+
